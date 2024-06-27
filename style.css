@@ -1,12 +1,10 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background: linear-gradient(to right, #3fe9f5, #ffffff); /*Pasa de Grediente #8e2de2, #4a00e0 a Gradiente ##3fe9f5, #ffffff */
+    background: linear-gradient(to right, #3fe9f5, rgba(249, 250, 244, 1)); /*Pasa de Grediente #8e2de2, #4a00e0 a Gradiente ##3fe9f5, #ffffff */
     padding: 0;
     margin: 0;
     padding-bottom: 100px;
 }
-
-
 
 header{
     text-align: center;
